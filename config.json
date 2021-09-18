@@ -6,6 +6,6 @@
   "PREFIX": "///",
   "PRUNING": false,
   "LOCALE": "en",
-  "STAY_TIME": 60,
+  "STAY_TIME": 120,
   "DEFAULT_VOLUME": 100
 }
